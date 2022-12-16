@@ -10,9 +10,9 @@ import ToDoList from "./components/ToDoList";
 
 function App() {
   const [todos, setToDos] = useState([
-    { id: uuid(), text: "katta", done: false },
-    { id: 2, text: "bomb", done: false },
-    { id: 3, text: "pistol", done: false },
+    { id: uuid(), text: "Item 1", done: false },
+    { id: 2, text: "Item 2", done: false },
+    { id: 3, text: "Item 3", done: false },
   ]);
 
   console.log(todos);
