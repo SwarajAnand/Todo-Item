@@ -1,4 +1,6 @@
 # Getting Started with Create React App
+TO DO LIST => Add or delete
+
 As this project is made with react js i dont add any css as it was for practice of the react concepts so i dont even remove the comments..
 
 Runs the app in the development mode.\
