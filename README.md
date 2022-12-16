@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+As this project is made with react js i dont add any css as it was for practice of the react concepts so i dont even remove the comments..
+
 ## Available Scripts
 
 In the project directory, you can run:
